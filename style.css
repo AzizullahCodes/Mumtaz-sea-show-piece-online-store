@@ -34,13 +34,14 @@ font-weight: 400;}
 #img{width:20%;
 height:600px;}
 
-.fa-heart-pulse{color:red;}
+.fa-heart-pulse{color:green;}
 #font{
     
       
   font-family: "Lobster", sans-serif;
   font-weight: 100;
   font-style: normal;
+  color:blue
     }
 
     .font-2{color: blue;}
