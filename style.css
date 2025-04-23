@@ -1,5 +1,5 @@
 
-.container{background-color: aquamarine;}
+.container{background-color:whitesmoke ;}
 .navbar-brand{font-size: 40px;
 font-weight: bold;}
 
@@ -38,4 +38,34 @@ font-size: 20px;
 font-weight: 400;}
 
 #contact{margin-top: 60px;}
+
+/* footer */
+#footer-row{background-color:aquamarine;
+max-width: 100%;
+margin-top: 40px;
+margin: auto;}
+
+
+.footer-{font-size: 25px;
+color:black;}
+
+.small{font-weight: 660;
+color:black;}
+
+#footer-link{font-size: 20px;
+color:black;}
+
+#footer-a{color:black !important;
+font-size: 14px;
+}
+
+#div{color:black;}
+
+#footer-ab{gap:14px;
+display: flex;
+flex-direction: column;}
+
+.custom-container{background-color: aquamarine;}
+
+#about-div,#contact-div{background-color: aquamarine !important;}
 
