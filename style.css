@@ -56,6 +56,12 @@ height: 400px !important;}
 
 .jumbotron{margin-top: 50px;} 
 
+.carosel-h5{color:red !important;
+font-size: 50px;
+font-weight: 600;}
+
+.carosel-p{color:black;
+font-size: 25px;}
 /* ---------about section---------- */
 #about{margin-top: 50px;}
 
