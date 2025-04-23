@@ -112,3 +112,4 @@ flex-direction: column;}
 
 #about-div,#contact-div{background-color: aquamarine !important;}
 
+@media(max-width:700px){.carosel-h5,.carosel-p{display: block;}}
